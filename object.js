@@ -3,6 +3,7 @@ const ultraman = {
     height: 100,
     isDead: false,
     color: "green",
+    size: 50,
     // address: {
     //     planet: {
     //         name: "namex",
